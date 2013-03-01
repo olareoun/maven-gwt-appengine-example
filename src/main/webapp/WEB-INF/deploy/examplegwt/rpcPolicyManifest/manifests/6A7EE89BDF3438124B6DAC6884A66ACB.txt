@@ -1,0 +1,2 @@
+serviceClass: org.olareoun.examplegwt.client.GreetingService
+path: E3A3A766E98AB51165BCCE75EC6B7DE5.gwt.rpc
